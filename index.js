@@ -1,5 +1,5 @@
 const Telegraf = require("telegraf").Telegraf,
-BOT_TOKEN = "6302487942:AAEXLp4SwjJNfmQbvEJKnt8MJVd5FdQWq9M";
+BOT_TOKEN = "";
 
 const bot = new Telegraf(BOT_TOKEN);
 
